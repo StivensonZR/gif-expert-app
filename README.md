@@ -2,7 +2,7 @@
 
 ### Creado con Vite - Desplegado en Netlify 
 
-https://gifs-app-szrdev.netlify.app/
+https://gif-expert-app-szrdev.netlify.app/
 
 Aplicación para obtener gifs de Giphy
 
